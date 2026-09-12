@@ -39,3 +39,9 @@ Evaluating the cost and benefits of adopting each model is essential to ensure b
     Maintenance for a neural network can be more resource-intensive due to the need for periodic retraining and fine-tuning as data evolves. The boosting model, with its ensemble nature, may offer easier scalability and stability.
 
 These factors combined can assist stakeholders in selecting and optimizing the model that best balances technical performance against financial investment.
+
+## Module acknowledgement
+
+Completed for **Data Science** as part of my University of Leeds MSc Artificial Intelligence studies. Thank you to [Abdulrahman Altahhan (Ph.D)](https://www.linkedin.com/in/draltahhan/) for the teaching and guidance.
+
+[Full portfolio](https://saqibsafdar.com/projects/) · [GitHub profile](https://github.com/saqibsafdar11)
