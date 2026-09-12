@@ -40,8 +40,8 @@ Evaluating the cost and benefits of adopting each model is essential to ensure b
 
 These factors combined can assist stakeholders in selecting and optimizing the model that best balances technical performance against financial investment.
 
-## Module acknowledgement
+## Module context
 
-Completed for **Data Science** as part of my University of Leeds MSc Artificial Intelligence studies. Thank you to [Abdulrahman Altahhan (Ph.D)](https://www.linkedin.com/in/draltahhan/) for the teaching and guidance.
+Completed for **Data Science** as part of my University of Leeds MSc Artificial Intelligence studies.
 
 [Full portfolio](https://saqibsafdar.com/projects/) · [GitHub profile](https://github.com/saqibsafdar11)
